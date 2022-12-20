@@ -5,22 +5,17 @@ Computer Systems Engineer student at [Instituto Tecnológico de Chihuahua II](ht
 - [x] Java
 - [x] Git
 - [x] GitHub
-- [x] Next.js (React)
+- [x] Next.js (React framework with TypeScript)
 
-## 🚧 My projects
-- [ ] [My personal website](https://carlosiramosv.github.io/) (Under construction)
-- [ ] Next.js (React) template (Under construction)
-- [ ] Portfolio (Coming soon)
-- [ ] Blog (Coming soon)
+## 🏗️ What I'm working on
+Soon...
 
 ## 🗄️ Archived projects
 - [x] [DataStructure](https://github.com/CarlosIRamosV/DataStructure) practice and projects for the Data Structure course.
 - [x] [Gingerbread_Proyecto](https://github.com/CarlosIRamosV/Gingerbread_Proyecto) end project for Object-Oriented Programming course (Java).
-- [x] [Ghost_UI](https://github.com/CarlosIRamosV/Ghost_UI) old custom UI for Minecraft.
+- [x] [Ghost_UI](https://github.com/CarlosIRamosV/Ghost_UI) old custom UI for Minecraft. (not working)
 
 ## 📫 How to reach me
 - [Twitter](https://twitter.com/CarlosIRamosV)
 - [YouTube](https://www.youtube.com/@CarlosIRamosV)
-- [Website](https://carlosiramosv.github.io/) (Under construction)
-
-## 🚧 Work in progress 🚧
+- More soon...
